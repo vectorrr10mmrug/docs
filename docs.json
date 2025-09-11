@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "General",
@@ -63,9 +63,9 @@
   "footer": {
     "socials": {
       "x": "https://x.com/soltap_io",
-      "discord": "https://discord.com/invite/soltap",
+      "discord": "https://discord.gg/soltap",
       "telegram": "https://t.me/soltapcommunity",
-      "youtube": "https://www.youtube.com/@soltap-io"
+      "youtube": "https://youtube.com/@soltap-io"
     }
   }
 }
