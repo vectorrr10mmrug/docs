@@ -19,10 +19,10 @@
               "index",
               "referral-program",
               "private-deployment",
-              "faq",
-              "contact-us",
               "community-content",
-              "brand-assets"
+              "brand-assets",
+              "faq",
+              "contact-us"
             ]
           },
           {
@@ -58,6 +58,14 @@
       "type": "button",
       "label": "Dashboard",
       "href": "https://soltap.io/dashboard"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/soltap_io",
+      "discord": "https://discord.com/invite/soltap",
+      "telegram": "https://t.me/soltapcommunity",
+      "youtube": "https://www.youtube.com/@soltap-io"
     }
   }
 }
