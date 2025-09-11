@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Docs",
+        "tab": "Guides",
         "groups": [
           {
-            "group": "",
+            "group": "General",
             "pages": [
               "index",
               "referral-program",
